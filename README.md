@@ -24,6 +24,7 @@ Opinionated bundle of cool blockchain-related resources to read/learn from.
 - [Solidity Security](https://blog.sigmaprime.io/solidity-security.html)
 
 ##### Best practices and guides
+- [Audit checklists](https://github.com/TradMod/awesome-audits-checklists)
 - [Smart contract security field guide](https://scsfg.io/)
 - [Solcurity](https://github.com/transmissions11/solcurity)
 - [Simple security toolkit](https://github.com/nascentxyz/simple-security-toolkit?tab=readme-ov-file%20-)
